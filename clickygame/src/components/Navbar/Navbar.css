@@ -4,19 +4,22 @@
 }
 
 .itemLeft {
-  width: 15%;
+  width: 20%;
+  font-family: 'Simpsonfont', sans-serif; 
 }
 
 .itemCenter {
-	width: 70%;
+	width: 60%;
 }
 
 .itemRight {
-  width: 15%;
+  width: 20%;
+  font-family: 'Simpsonfont', sans-serif; 
 }
 
 .navbar {
-  background: #490549;
+	
+  background: #0ec9cf;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
 }
 
@@ -27,4 +30,13 @@ li {
 
 body {
   font-size: 24px;
+}
+@font-face {
+	font-family: 'Simpsonfont';
+
+	src: 
+		local('Simpsonfont'),
+	
+		url('../Jumbotron/font/Simpsonfont.otf') 
+		format('opentype');
 }

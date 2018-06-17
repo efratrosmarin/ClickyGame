@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "image": "apu.jpg"
+    },
+    {
+      "id": 2,
+      "image": "bart.jpg"    
+    },
+    {
+      "id": 3,
+      "image": "burns.jpg"
+    },
+    {
+      "id": 4,
+      "image": "clown.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "comics.jpg"
+    },
+    {
+      "id": 6,
+      "image": "homer.jpg"
+    },
+    {
+      "id": 7,
+      "image": "lisa.jpg"
+    },
+    {
+      "id": 8,
+      "image": "maggie.jpg"
+    },
+    {
+      "id": 9,
+      "image": "marge.jpg"
+    },
+    {
+      "id": 10,
+      "image": "ralph.jpg"
+    },
+    {
+      "id": 11,
+      "image": "stu.jpg"
+    },
+    {
+      "id": 12,
+      "image": "wingem.jpg"
+    }
+  ]
+  

@@ -1,18 +1,29 @@
 .header{
-	background-color: #ccc;
+	background-color: rgb(238, 238, 238);
 	position: relative;
 	width: 100%;
 }
 
 h1{
 	text-align: center;
-	font-size: 90px;
+	font-size: 50px;
 	font-weight: bold;
-	padding: 90px 0 20px 0; 
+	padding-top: 80px; 
+	font-family: 'Simpsonfont', sans-serif; 
 }
 
 h2{
 	text-align: center;
-	font-size: 25px;
+	font-size: 20px;
 	padding-bottom: 40px;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+@font-face {
+	font-family: 'Simpsonfont';
+
+	src: 
+		local('Simpsonfont'),
+	
+		url('./font/Simpsonfont.otf') 
+		format('opentype');
 }

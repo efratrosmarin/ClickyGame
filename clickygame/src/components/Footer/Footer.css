@@ -1,12 +1,6 @@
 .footer{
-	background-color: #490549;
+	background-color: #0fc0d3;
 	width: 100%;
 	position: relative;
 }
 
-.footer p{
-	color: white;
-	text-align: center;
-	padding: 10px 0;
-	font-size: 15px;
-}
